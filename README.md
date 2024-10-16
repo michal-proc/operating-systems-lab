@@ -4,7 +4,7 @@ This repository contains solutions to various laboratory exercises for the **Ope
 
 ## Table of Contents
 
-- [Lab 1 - Makefile](#lab1)
+- [Lab 1 - Makefile](./lab1)
 - [Lab 2 - Libraries](#lab2)
 - [Lab 3 - Files](#lab3)
 - [Lab 4 - Processes](#lab4)
