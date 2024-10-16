@@ -5,17 +5,17 @@ This repository contains solutions to various laboratory exercises for the **Ope
 ## Table of Contents
 
 - [Lab 1 - Makefile](./lab1)
-- [Lab 2 - Libraries](#lab2)
-- [Lab 3 - Files](#lab3)
-- [Lab 4 - Processes](#lab4)
-- [Lab 5 - Signals](#lab5)
-- [Lab 6 - Pipes](#lab6)
-- [Lab 7 - IPC (Chat using Queues)](#lab7)
-- [Lab 8 - IPC (Shared Memory with Semaphores)](#lab8)
-- [Lab 9 - Threads](#lab9)
-- [Lab 10 - Thread Synchronization](#lab10)
-- [Lab 11 - TCP/IP Sockets](#lab11)
-- [Lab 12 - UDP Sockets](#lab12)
+- [Lab 2 - Libraries](./lab2)
+- [Lab 3 - Files](./lab3)
+- [Lab 4 - Processes](./lab4)
+- [Lab 5 - Signals](./lab5)
+- [Lab 6 - Pipes](./lab6)
+- [Lab 7 - IPC (Chat using Queues)](./lab7)
+- [Lab 8 - IPC (Shared Memory with Semaphores)](./lab8)
+- [Lab 9 - Threads](./lab9)
+- [Lab 10 - Thread Synchronization](./lab10)
+- [Lab 11 - TCP/IP Sockets](./lab11)
+- [Lab 12 - UDP Sockets](./lab12)
 
 ## Lab 1 - Makefile
 
