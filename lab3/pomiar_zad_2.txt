@@ -1,0 +1,2 @@
+Execution time - reverse_by_byte(): 1246810 nanoseconds
+Execution time - reverse_by_block(): 256486 nanoseconds

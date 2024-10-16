@@ -1,0 +1,15 @@
+Delta: 0.100000, Processes: 1, Result: 3.439926, Time: 0.36 ms
+Delta: 0.001000, Processes: 100, Result: 3.142592, Time: 6.31 ms
+Delta: 0.001000, Processes: 500, Result: 3.142592, Time: 32.82 ms
+Delta: 0.000010, Processes: 500, Result: 3.149780, Time: 32.34 ms
+Delta: 0.000000, Processes: 500, Result: 3.141662, Time: 43.73 ms
+Delta: 0.000000, Processes: 500, Result: 3.141594, Time: 1307.86 ms
+Width: 0.001000, Processes: 500, Result: 3.142592, Time: 30908775 ns
+Width: 0.000000, Processes: 500, Result: 3.141594, Time: 427927261 ns
+Width: 0.001000, Processes: 500, Result: 3.999998, Time: 29838412 ns
+Width: 0.001000, Processes: 10, Result: 3.986943, Time: 1125118 ns
+Width: 0.000010, Processes: 10, Result: 3.987144, Time: 1916405 ns
+Width: 0.000000, Processes: 10, Result: 3.986746, Time: 386902605 ns
+Width: 0.000000, Processes: 10, Result: 3.141593, Time: 233200258 ns
+Width: 0.000100, Processes: 100, Result: 3.169434, Time: 5002401 ns
+Width: 0.000010, Processes: 100, Result: 3.143241, Time: 6493109 ns
